@@ -8,5 +8,6 @@ Welcome to MOM6-AnalysisCookbook's documentation!
 
 .. toctree::
    :maxdepth: 3
-   ../tutorials/01a_setting_up_dask_jobqueue.ipynb
+
+   ../tutorials/01a_setting_up_dask_jobqueue
 
