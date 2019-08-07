@@ -11,4 +11,4 @@ dependencies:
   - matplotlib
   - nbsphinx
   - cartopy
-  - jupyter
+  - jupyter_client
