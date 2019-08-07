@@ -8,5 +8,5 @@ Welcome to the MOM6 analysis cookbook
 
 .. toctree::
    :maxdepth: 2
-   tutorials/01a_setting_up_dask_jobqueue
+   cookbook
 
