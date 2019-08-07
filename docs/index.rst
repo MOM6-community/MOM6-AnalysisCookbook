@@ -10,9 +10,3 @@ Welcome to MOM6-AnalysisCookbook's documentation!
    :maxdepth: 3
    ../tutorials/01a_setting_up_dask_jobqueue.ipynb
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
