@@ -3,11 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MOM6-AnalysisCookbook's documentation!
-=================================================
+Welcome to the MOM6 analysis cookbook
+=====================================
 
 .. toctree::
-   :maxdepth: 3
-
-   ../tutorials/01a_setting_up_dask_jobqueue
+   :maxdepth: 2
+   tutorials/01a_setting_up_dask_jobqueue
 
