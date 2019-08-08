@@ -11,4 +11,6 @@ dependencies:
   - matplotlib
   - nbsphinx
   - cartopy
-  - jupyter_client
+  - pandoc
+  - nbconvert
+  - ipykernel
