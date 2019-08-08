@@ -1,6 +1,8 @@
 name: mom6docs
+
 channels:
   - conda-forge
+
 dependencies:
   - python=3.6
   - xarray
@@ -9,8 +11,4 @@ dependencies:
   - pandas
   - netcdf4
   - matplotlib
-  - nbsphinx
   - cartopy
-  - pandoc
-  - nbconvert
-  - ipykernel
