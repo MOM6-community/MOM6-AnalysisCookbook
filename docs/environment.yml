@@ -1,4 +1,4 @@
-name: mom6docs
+name: latest
 
 channels:
   - conda-forge
