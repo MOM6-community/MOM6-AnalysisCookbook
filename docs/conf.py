@@ -21,8 +21,8 @@ import subprocess
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-create_env = f'python -m ipykernel install --user --name mom6docs --display-name "mom6docs"'
-ierr = subprocess.call(create_env, shell=True)
+#create_env = f'python -m ipykernel install --user --name mom6docs --display-name "mom6docs"'
+#ierr = subprocess.call(create_env, shell=True)
 
 # -- General configuration ------------------------------------------------
 
