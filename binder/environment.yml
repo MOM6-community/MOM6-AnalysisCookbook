@@ -10,5 +10,10 @@ dependencies:
   - esmpy
   - pandas
   - netcdf4
+  - sphinx
+  - nbsphinx
+  - pandoc
+  - nbconvert
+  - ipykernel
   - matplotlib
   - cartopy

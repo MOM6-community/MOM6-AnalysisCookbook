@@ -16,4 +16,4 @@ sphinx:
 formats: []
 
 conda:
-  environment: docs/environment.yml
+  environment: binder/environment.yml
