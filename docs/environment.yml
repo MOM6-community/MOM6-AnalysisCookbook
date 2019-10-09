@@ -1,19 +1,12 @@
-name: mom6docs
+name: latest
 
 channels:
   - conda-forge
 
 dependencies:
   - python=3.6
-  - xarray
-  - dask
-  - esmpy
-  - pandas
-  - netcdf4
   - sphinx
   - nbsphinx
   - pandoc
   - nbconvert
   - ipykernel
-  - matplotlib
-  - cartopy

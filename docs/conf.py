@@ -17,10 +17,12 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
+import subprocess
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+#create_env = f'python -m ipykernel install --user --name mom6docs --display-name "mom6docs"'
+#ierr = subprocess.call(create_env, shell=True)
 
 # -- General configuration ------------------------------------------------
 
@@ -77,6 +79,7 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = False
 
+nbsphinx_allow_errors = True
 
 # -- Options for HTML output ----------------------------------------------
 
