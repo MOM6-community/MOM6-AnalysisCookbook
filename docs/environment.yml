@@ -6,3 +6,5 @@ dependencies:
   - numpy
   - sphinx=1.7.5
   - nbsphinx
+  - pip:
+    - jupyter_client
