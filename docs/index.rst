@@ -5,4 +5,4 @@ Welcome to the MOM6 analysis cookbook
    :maxdepth: 2
    :caption: Contents:
 
-   time_operations
+   cookbook

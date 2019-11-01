@@ -21,9 +21,6 @@ import subprocess
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-#create_env = f'python -m ipykernel install --user --name mom6docs --display-name "mom6docs"'
-#ierr = subprocess.call(create_env, shell=True)
-
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -86,32 +83,6 @@ todo_include_todos = False
 #nbsphinx_allow_errors = False
 nbsphinx_execute = "never"
 
-## This is processed by Jinja2 and inserted before each notebook
-#nbsphinx_prolog = r"""
-#{% set docname = 'doc/' + env.doc2path(env.docname, base=None) %}
-#.. only:: html
-#    .. role:: raw-html(raw)
-#        :format: html
-#    .. nbinfo::
-#        This page was generated from `{{ docname }}`__.
-#        Interactive online version:
-#        :raw-html:`<a href="https://mybinder.org/v2/gh/spatialaudio/nbsphinx/{{ env.config.release }}?filepath={{ docname }}"><img alt="Binder badge" src="https://mybinder.org/badge_logo.svg" style="vertical-align:text-bottom"></a>`
-#    __ https://github.com/spatialaudio/nbsphinx/blob/
-#        {{ env.config.release }}/{{ docname }}
-#.. raw:: latex
-#    \nbsphinxstartnotebook{\scriptsize\noindent\strut
-#    \textcolor{gray}{The following section was generated from
-#    \sphinxcode{\sphinxupquote{\strut {{ docname | escape_latex }}}} \dotfill}}
-#"""
-#
-## This is processed by Jinja2 and inserted after each notebook
-#nbsphinx_epilog = r"""
-#{% set docname = 'doc/' + env.doc2path(env.docname, base=None) %}
-#.. raw:: latex
-#    \nbsphinxstopnotebook{\scriptsize\noindent\strut
-#    \textcolor{gray}{\dotfill\ \sphinxcode{\sphinxupquote{\strut
-#    {{ docname | escape_latex }}}} ends here.}}
-#"""
 # -- Options for HTML output ----------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
