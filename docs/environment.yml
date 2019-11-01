@@ -2,9 +2,7 @@ name: MOM6-AnalysisCookbook
 channels:
   - conda-forge
 dependencies:
-  - python=3.6
+  - python=2.7
+  - numpy
   - sphinx=1.7.5
   - nbsphinx
-  - pandoc
-  - nbconvert
-  - ipykernel
