@@ -19,6 +19,6 @@ dependencies:
   - cartopy
   - gcsfs
   - zarr
-  - jupyter-lab
+  - jupyterlab
   - pip:
     - git+https://github.com/xgcm/xgcm.git
