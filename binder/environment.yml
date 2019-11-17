@@ -20,5 +20,7 @@ dependencies:
   - gcsfs
   - zarr
   - jupyterlab
+  - pip
+  - nc-time-axis
   - pip:
     - git+https://github.com/xgcm/xgcm.git
