@@ -10,11 +10,6 @@ dependencies:
   - esmpy
   - pandas
   - netcdf4
-  - sphinx
-  - nbsphinx
-  - pandoc
-  - nbconvert
-  - ipykernel
   - matplotlib
   - cartopy
   - gcsfs
@@ -22,6 +17,6 @@ dependencies:
   - jupyterlab
   - pip
   - nc-time-axis
-  - cftime
+  - cftime=1.0.3.4
   - pip:
     - git+https://github.com/xgcm/xgcm.git
