@@ -22,7 +22,7 @@ python:
       - method: pip
         path: .
       extra_requirements:
-            - MOM6_AnalysisCookbook
+        - MOM6_AnalysisCookbook
       - method: setuptools
    system_packages: true
 
