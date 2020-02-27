@@ -15,5 +15,12 @@ sphinx:
 # Optionally build your docs in additional formats such as PDF and ePub
 formats: []
 
-conda:
-  environment: docs/environment.yml
+python:
+   version: 3.7
+   install:
+      - requirements: docs/requirements.txt
+      - method: pip
+        path: .
+
+#conda:
+#  environment: docs/environment.yml
