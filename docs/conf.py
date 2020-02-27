@@ -49,7 +49,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'MOM6_AnalysisCookbook'
+project = 'MOM6-AnalysisCookbook'
 copyright = '2019, Multiple'
 author = 'Multiple'
 
