@@ -2,7 +2,7 @@
 import setuptools
 
 setuptools.setup(
-    name="MOM6-AnalysisCookbook",
+    name="MOM6_AnalysisCookbook",
     version="0.0.1",
     author="Raphael Dussin",
     author_email="raphael.dussin@gmail.com",
