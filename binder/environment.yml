@@ -18,5 +18,6 @@ dependencies:
   - pip
   - nc-time-axis
   - cftime=1.0.3.4
+  - pydap
   - pip:
     - git+https://github.com/xgcm/xgcm.git
