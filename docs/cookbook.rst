@@ -14,3 +14,4 @@ Here are recipes for doing some xarray-based analysis with MOM6.
    05_Buoyancy_Geostrophic_shear
    06_Horizontal_Remapping
    07_Plotting
+   08_Comparing_to_section_data
