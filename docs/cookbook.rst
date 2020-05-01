@@ -8,6 +8,7 @@ Here are recipes for doing some xarray-based analysis with MOM6.
 
    01a_setting_up_dask_jobqueue
    01b_setting_up_dask_localcluster
+   01c_getting_started
    02_time_operations
    03_spatial_operations
    04_vorticity
