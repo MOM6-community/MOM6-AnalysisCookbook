@@ -19,3 +19,4 @@ Here are recipes for doing some xarray-based analysis with MOM6.
    09_Closing_tracer_budgets
    10a_Watermass_transformation
    10b_Closing_layerwise_tracer_budgets
+   11_Closing_momentum_budget
