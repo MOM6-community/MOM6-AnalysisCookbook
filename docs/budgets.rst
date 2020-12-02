@@ -8,4 +8,3 @@ Here we look at momentum and tracer budgets.
 
    11_Closing_momentum_budget
    09_Closing_tracer_budgets
-   10b_Closing_layerwise_tracer_budgets
