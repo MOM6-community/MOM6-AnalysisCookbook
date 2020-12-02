@@ -5,6 +5,7 @@ channels:
 
 dependencies:
   - python=3.6
+  - ipykernel
   - xarray
   - dask
   - esmpy
@@ -19,5 +20,8 @@ dependencies:
   - nc-time-axis
   - cftime=1.0.3.4
   - pydap
+  - scipy
   - pip:
+    - cmocean
     - git+https://github.com/xgcm/xgcm.git
+    - git+https://github.com/geopython/OWSLib.git
