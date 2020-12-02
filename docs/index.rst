@@ -10,5 +10,5 @@ Welcome to the MOM6 analysis cookbook
    grid_calculus
    plotting
    remapping
-   advanced_diagnostics
    budgets
+   advanced_diagnostics
