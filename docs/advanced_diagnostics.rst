@@ -7,5 +7,5 @@ some advanced diagnostics, budgets,...
 .. toctree::
    :maxdepth: 2
 
-   notebooks/10a_Watermass_transformation
-   notebooks/10b_Closing_layerwise_tracer_budgets
+   notebooks/Watermass_transformation
+   notebooks/Closing_layerwise_tracer_budgets
