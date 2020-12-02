@@ -6,5 +6,9 @@ Welcome to the MOM6 analysis cookbook
    :caption: Contents:
 
    tech
-   cookbook
+   basic_operations
+   grid_calculus
+   plotting
+   remapping
    advanced_diagnostics
+   budgets
