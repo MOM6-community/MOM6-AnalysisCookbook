@@ -6,13 +6,13 @@ channels:
 dependencies:
   - python=3.6
   - ipykernel
-  - xarray
+  - xarray=0.16.0
   - dask
   - esmpy
   - pandas
   - netcdf4
-  - matplotlib
-  - cartopy
+  - matplotlib=3.2.2
+  - cartopy=0.17.0
   - gcsfs
   - zarr
   - jupyterlab
