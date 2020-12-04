@@ -5,4 +5,10 @@ Welcome to the MOM6 analysis cookbook
    :maxdepth: 2
    :caption: Contents:
 
-   cookbook
+   tech
+   basic_operations
+   grid_calculus
+   plotting
+   remapping
+   budgets
+   advanced_diagnostics
