@@ -6,6 +6,7 @@ Welcome to the MOM6 analysis cookbook
    :caption: Contents:
 
    tech
+   notebooks/getting_started.ipynb
    basic_operations
    grid_calculus
    plotting
