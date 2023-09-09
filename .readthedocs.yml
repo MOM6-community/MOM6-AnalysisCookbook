@@ -16,14 +16,10 @@ sphinx:
 formats: []
 
 python:
-  version: 3.7
+  version: 3.8
   install:
     - requirements: docs/requirements.txt
     - method: pip
       path: .
       extra_requirements:
         - MOM6_AnalysisCookbook
-  system_packages: true
-
-#conda:
-#  environment: docs/environment.yml
